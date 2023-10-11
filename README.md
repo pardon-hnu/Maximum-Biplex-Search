@@ -1,2 +1,4 @@
-# FMBS
-FPGA-based MaximumBiplexSearch Algorithm
+# Maximum Biplex Search 
+
+> Accelerating maximum biplex search over large bipartite graphs
+
